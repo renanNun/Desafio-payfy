@@ -44,4 +44,4 @@ npm run dev
 
 ### Documentação das rotas e outras informações
 
-A Documentação das rotas do projeto, bem como outras informações se encontram na wiki deste repositório
+A Documentação das rotas do projeto, bem como outras informações se encontram na [wiki](https://github.com/renanNun/Desafio-payfy/wiki) deste repositório
