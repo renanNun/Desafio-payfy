@@ -1,0 +1,17 @@
+{
+    "type": "postgres",
+    "host": "host.docker.internal",
+    "port": 5432,
+    "username": "postgres",
+    "password": "postgres",
+    "database": "users_api_dev",
+    "synchronize": true,
+    "logging": false,
+    "entities": ["./src/entities/*.ts"],
+    "migrations": [
+      "./src/database/migrations/*.ts"
+    ],
+    "cli": {
+      "migrationsDir": "./src/database/migrations"
+    }
+  }
